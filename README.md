@@ -25,6 +25,7 @@ I recently took a project to conduct Exploratory Data Analysis (EDA) on movie da
 
 12. Correlations Between Popularity, Revenue, Budget, and Profit: We are looking to observe insights into the interdependencies among certain specific factors and understand how popularity, revenue, budget, and profit correlate with each other.
 This EDA provides a comprehensive and thorough view of the movie industry, revealing trends, success stories, and challenges. By leveraging the Superpower of data analysis, we can gain useful insights that can inform decision-making process and serve as a  driver for future success.
+
 Limitations:
 Quite a lot of data was lost in data cleaning which was quite tough to deal with, so our conclusion may appear somewhat flawed or skewed
 hashtag
